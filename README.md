@@ -17,3 +17,9 @@
 ### 🤝 Hire me:
 
 [<img alt="Sergey Litvin | Resume" src="https://img.shields.io/badge/-Download Resume-blue" />][resume]
+
+
+[instagram]: https://www.instagram.com/serg.litvin/
+[linkedin]: https://www.linkedin.com/in/sergeylitvin/
+[facebook]: https://www.facebook.com/LytvynSerhii
+[resume]: https://icancv.ru/sergey-litvin
