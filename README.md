@@ -1,6 +1,6 @@
 <img src="https://github.com/SergeyLitvin/SergeyLitvin/blob/main/assets/img/Title-banner-github-profile.png">
 
-### Hi everyone, I'm Sergey 👋 <img align="right" src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsergeylitvin%2F" alt="Profile Views">
+### Hi everyone, I'm Sergey 👋
 
 
 ## I'm a Front-end Developer!
