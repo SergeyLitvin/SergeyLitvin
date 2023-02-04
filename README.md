@@ -24,4 +24,4 @@
 [instagram]: https://www.instagram.com/serg.litvin/
 [linkedin]: https://www.linkedin.com/in/sergeylitvin/
 [facebook]: https://www.facebook.com/LytvynSerhii
-[resume]: https://icancv.ru/sergey-litvin
+[resume]: https://github.com/SergeyLitvin/SergeyLitvin/blob/main/CVSerhiiLytvyn.pdf
