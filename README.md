@@ -5,7 +5,7 @@
 
 ## I'm a Front-end Developer!
 
-- 💻 4+ Years Commercial Experience in Front-end Development
+- 💻 6+ Years Commercial Experience in Front-end Development
 - 👨‍💻 For me, programming is both a hobby and direction of professional development
 - 📚 I'm open-minded to new knowledge and constantly improve my programmer skills
 
